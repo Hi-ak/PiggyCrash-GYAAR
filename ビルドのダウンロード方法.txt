@@ -4,7 +4,7 @@ https://drive.google.com/drive/folders/1536CiHjlCN2yzA7V-RqHdCMD_DY-eTaP にア�
 【Mac版】
 実機上で動作することを確認しました。以上のリンクからダウンロードと実行権限を与えるターミナルの操作をお願いいたします。
 
-【iOS版】
+【その他のプラットフォーム】
 実機上での動作がまだ確認できていません。
 
 【UnityPackage版】
