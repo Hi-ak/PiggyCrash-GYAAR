@@ -1,6 +1,13 @@
-iOS向け、Mac版はの実機での実行が不安定のため、
-Unity2022.3.14f1上で動作するUnityPackageを提出させていただきます。
+実行ファイルのサイズがGitHubの容量制限を超えてしまったため、Google Driveにビルドを移動いたしました。
+https://drive.google.com/drive/folders/1536CiHjlCN2yzA7V-RqHdCMD_DY-eTaP にアクセスして、MacOS版をダウンロードしてください。
 
-Windows版は、動作未検証です。
+【Mac版】
+実機上で動作することを確認しました。以上のリンクからダウンロードと実行権限を与えるターミナルの操作をお願いいたします。
 
-安定したビルドが出来次第、こちらのGitHubにアップロードいたします。
+【iOS版】
+実機上での動作がまだ確認できていません。
+
+【UnityPackage版】
+万が一、いずれのビルドも動作しなかった場合はGitHubのUnityPackageから、Unity上で確認していただきたいです。
+
+何卒よろしくお願いいたします。
